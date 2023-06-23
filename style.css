@@ -1,0 +1,259 @@
+  
+  body {
+    height: 100%;
+    background-color: #e3e6e3;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .container {
+    width: 980px;
+    margin: 0 auto;
+  }
+
+  .logo {
+    height: 32px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .nav {
+    height: 48px;
+    background-color: #009270;
+    display: flex;
+    align-items: center;
+  }
+  .nav-dark{
+    height: 40px;
+    background-color: #4a4a4a;
+    display: flex;
+    align-items: center;
+  }
+  .nav-dark1{
+    color: white;
+    display: flex;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 14px;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .navitem {
+    color: white;
+    display: flex;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    align-items: center;
+  }
+  .nav1 {
+    height: 48px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+  }
+  .logo1{
+    font-size: 19px;
+    font-weight: 600;
+    height: 32px;
+  
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .navitem1 {
+    color: white;
+    display: flex;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    align-items: center;
+  }
+
+  .featured-matches {
+    height: 100px;
+    background-color: white;
+    margin-top: 0px;
+    padding: 15px;
+    padding-left: 20px;
+  }
+
+  .featured-match-heading {
+    color: #009270;
+    font-weight: 900;
+  }
+
+  .match {
+      margin-top: 10px;
+      font-size: 15px;
+      border-right: 1px solid rgb(151, 88, 88);
+      padding: 5px;
+      
+  }
+
+  .mt10 {
+      margin-top: 10px;
+  }
+
+  .match-country {
+      font-weight: 700;
+      margin-right: 20px;
+      
+  }
+
+  .featured-match-sub {
+    font-size: 14px;
+      color: blue;
+      margin-top: 10px;
+  }
+  .featured-match-sub-red{
+    font-size: 10px;
+      color: #d0021b;
+      margin-top: 10px;
+  }
+  .featured-matches-score{
+      display: flex;
+      justify-content: space-between;
+  }
+  .latest-news{
+      width: 206px;
+      background-color:white;
+
+  }
+  .content{
+      margin-top: 8px;
+      display: flex;
+  }
+  .latest-new-hading{
+      padding: 10px;
+  }
+  .one-latest-news{
+     padding: 10px;
+     font-size: 14px;
+
+  }
+  .duration{
+      font-size: 12px;
+      color: rgb(216, 207, 207);
+  }
+  .main-news{
+      width: 420px;
+      background-color: white;
+      padding: 10px;
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+  .latest-pic{
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .featured-videos{
+    width: 320px;
+      background-color: white;
+      padding: 10px; 
+  }
+  .news-tag{
+      font-size: 13px;
+      color: rgb(187, 178, 178);
+      margin-bottom: 4px;
+  }
+  .news-img{
+      border-radius: 10px;
+  }
+  .news-title{
+      font-weight: 700;
+      font-size: 22px;
+
+  }
+  .news-desc{
+      font-size: 14px;
+      color:#a18570;
+      margin-top: 10px;
+      line-height: 20px;
+  }
+  .new-link{
+      color: #1866db;
+      margin-top: 10px;
+      font-weight: 100;
+  }
+  .video-content{
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 5px;
+  }
+  .video-img{
+    padding-top: 5px;
+  }
+  .button{
+    background-color: #009270;
+    height: 30px;
+    width: 100px;
+    border-radius: 7px;
+    margin-left: 100px;
+    color: white;
+    font-size: 15px;
+    padding: 2px;
+    border-style: none;
+
+  }
+  .pic-content{
+    padding: 5px;
+     font-size: 14px;
+  }
+  .footer{
+    width: 100%;
+    background-color: #4a4a4a;
+    height: 330px;
+    margin-top: 10px;
+  }
+  .footer-img{
+    height: 32px;
+    margin-top: 150px;
+    margin-left: 150px;
+    margin-right: 30px;
+  }
+  .f11{
+    margin-left: 310px;
+    margin-top: -120px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .f2{
+    margin-left: 320px;
+    margin-top: -170px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .f3{
+    margin-left: 650px;
+    margin-top: -200px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+
+  }
+  .f112{
+    margin-left: 310px;
+    margin-top:20px;
+    color: white;
+  }
+  .f21{
+    margin-left: 630px;
+    margin-top:20px;
+    color: white;
+  }
+  .f31{
+    margin-left: 970px;
+    margin-top:20px;
+    color: white;
+  }
+  .last{
+    color:white;
+    font-size: 14px;
+    margin-left: 270px;
+  }
